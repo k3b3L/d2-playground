@@ -1,0 +1,42 @@
+direction: right
+
+Insuficiencia Renal Aguda (IRA) -> Criterios de Definición
+Criterios de Definición -> RIFLE o AKIN
+RIFLE o AKIN -> "Incremento creatininemia >0.3 mg/dl o 150-200% en 48h"
+RIFLE o AKIN -> "Diuresis <0.5 ml/kg/h por 6h"
+"Incremento creatininemia >0.3 mg/dl o 150-200% en 48h" -> "Aumento mortalidad 30%"
+"Diuresis <0.5 ml/kg/h por 6h" -> "Aumento mortalidad 30%"
+
+Insuficiencia Renal Aguda (IRA) -> Causas de IRA
+Causas de IRA -> Prerrenal (55%)
+Causas de IRA -> Parenquimatosa (40%)
+Causas de IRA -> Obstructiva/Posrenal (5%)
+
+Prerrenal (55%) -> Hipoperfusión renal
+Hipoperfusión renal -> "Reversible si se corrige"
+
+Parenquimatosa (40%) -> "Lesión renal aguda/necrosis tubular"
+Parenquimatosa (40%) -> "Glomerulonefritis, vasculitis, etc."
+
+Obstructiva/Posrenal (5%) -> Obstrucción vías urinarias
+Obstrucción vías urinarias -> "Recuperación inmediata si se resuelve"
+
+Insuficiencia Renal Aguda (IRA) -> "Fisiopatología IRA Parenquimatosa"
+"Fisiopatología IRA Parenquimatosa" -> "Fases: Vasoconstricción, Iniciación, Extensión, Mantenimiento, Reparación"
+"Fases: Vasoconstricción, Iniciación, Extensión, Mantenimiento, Reparación" -> "Vasoconstricción: ↓ flujo sanguíneo 50%"
+"Fases: Vasoconstricción, Iniciación, Extensión, Mantenimiento, Reparación" -> "Iniciación: Daño células epiteliales"
+"Fases: Vasoconstricción, Iniciación, Extensión, Mantenimiento, Reparación" -> "Extensión: Inflamación, lesión endotelial"
+"Fases: Vasoconstricción, Iniciación, Extensión, Mantenimiento, Reparación" -> "Mantenimiento: Filtrado glomerular estable"
+"Fases: Vasoconstricción, Iniciación, Extensión, Mantenimiento, Reparación" -> "Reparación: Recuperación variable"
+
+"Fisiopatología IRA Parenquimatosa" -> "Daño tubular: Depleción ATP, radicales libres"
+"Daño tubular: Depleción ATP, radicales libres" -> "Obstrucción túbulos, retrodifusión"
+
+Insuficiencia Renal Aguda (IRA) -> "Enfermedad Renal Crónica (ERC)"
+"Enfermedad Renal Crónica (ERC)" -> "Definición: FG <60 ml/min/1.73m² por >3 meses"
+"Definición: FG <60 ml/min/1.73m² por >3 meses" -> Estadios KDQQI
+Estadios KDQQI -> "Estadio 1: FG >90"
+Estadios KDQQI -> "Estadio 2: FG 60-84"
+Estadios KDQQI -> "Estadio 3: FG 30-59"
+Estadios KDQQI -> "Estadio 4: FG 15-24"
+Estadios KDQQI -> "Estadio 5: FG <15"
